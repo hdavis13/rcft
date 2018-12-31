@@ -87,8 +87,7 @@ Complaints Click here to report any complaints you have concerning officers, oth
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hdavis13.github.io/rcft/officers/</guid>
-      <description>Dr. Derrick Yeo, Faculty Advisor
-Dr. Derrick Yeo is the First Year Innovation and Research Experience Research Educator for the Autonomous Unmanned Systems Stream. Joshua Lee, Co-President Joshua Piccoli, Co-President Ryan Sutton, Treasurer Meghan Kocur, Secretary Logan Brown, Equipment Manager Nick Rehm, Advisory Board Chair   div.gallery { border: 1px solid #ccc; } div.gallery:hover { border: 1px solid #777; } div.gallery img { width: 100%; height: auto; } div.</description>
+      <description>div.gallery { border: 1px solid #ccc; } div.gallery:hover { border: 1px solid #777; } div.gallery img { width: 100%; height: auto; } div.desc { padding: 15px; text-align: center; } * { box-sizing: border-box; } .responsive { padding: 6px 6px; float: left; width: 33.333333%; } @media only screen and (max-width: 700px) { .responsive { width: 49.99999%; margin: 6px 0; } } @media only screen and (max-width: 500px) { .responsive { width: 100%; } } .</description>
     </item>
     
     <item>
